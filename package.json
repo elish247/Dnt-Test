@@ -1,0 +1,21 @@
+{
+  "name": "dnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Elish Patel",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^2.3.1",
+    "express": "^4.18.1",
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.3",
+    "nodemon": "^2.0.16"
+  }
+}
